@@ -1,4 +1,15 @@
-h1{
+#song-title{
     color:darkblue;
-    font-family: copperplate;
+    font-family: "Annie Use Your Telescope", cursive;
+    font-size: 40px;
 }
+h3,h4{
+    color:#990000;
+    font-family: "Purple Purse", serif;
+}
+
+#lyrics {
+    font-family: "Annie Use Your Telescope", cursive;
+    font-size: 20px;
+}
+
