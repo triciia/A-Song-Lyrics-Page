@@ -20,7 +20,7 @@ h3,h4{
 img {
   width: 35%;
   height: auto;
- display:flex;
+ display: block;
 }
 .box-model{
     padding: 10px;
