@@ -1,15 +1,30 @@
 #song-title{
-    color:darkblue;
+    color:#e62e00;
     font-family: "Annie Use Your Telescope", cursive;
     font-size: 40px;
 }
+h2{
+    color:#990000;
+    font-family: "Annie Use Your Telescope", cursive;
+}
+
 h3,h4{
     color:#990000;
     font-family: "Purple Purse", serif;
 }
 
 #lyrics {
-    font-family: "Annie Use Your Telescope", cursive;
+    font-family: "Purple Purse", serif;
     font-size: 20px;
 }
-
+img {
+  width: 35%;
+  height: auto;
+ display:flex;
+}
+.box-model{
+    padding: 10px;
+    border: 2px solid #990000;
+    background-color: #b3d9ff;
+    width: fit-content;
+}
