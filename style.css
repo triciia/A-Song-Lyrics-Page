@@ -1,1 +1,39 @@
 
+
+
+.row{
+   display: flex;
+     display: flex;
+      justify-content: center;
+      align-items: center;
+}
+ .row img {
+      height: 600px;
+      border: 3px solid white;
+      padding: 10px;
+      margin: 10px;
+      background-color: black;  
+    }
+
+
+.title{
+color:red;
+text-align: center;
+}
+
+.lyrics {
+    text-align:center;
+    font-family: "Annie Use Your Telescope", cursive;
+    font-size:25px;
+    background-color: white;
+    padding:20px;
+    margin-left:auto;
+    margin-bottom:auto;
+    
+}
+h3{
+    color:#fa0710;
+}
+body{
+    background-color: black;
+}
