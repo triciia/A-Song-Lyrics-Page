@@ -23,17 +23,26 @@ text-align: center;
 
 .lyrics {
     text-align:center;
-    font-family: "Annie Use Your Telescope", cursive;
+    font-family: "Purple Purse", serif;
     font-size:25px;
     background-color: white;
-    padding:20px;
-    margin-left:auto;
-    margin-bottom:auto;
+    padding:10px;
+    margin:10px;
+    
     
 }
 h3{
     color:#fa0710;
+    font-weight: bold;
 }
 body{
     background-color: black;
+}
+
+a{
+    color:#66b3ff;
+}
+
+a:hover{
+    color:#fa0710;
 }
