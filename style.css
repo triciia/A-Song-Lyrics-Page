@@ -1,17 +1,15 @@
 
-
-
 .row{
    display: flex;  
    justify-content: center;
    align-items: center;
 }
  .row img {
-      height: 600px;
-      border: 3px solid white;
-      padding: 10px;
-      margin: 10px;
-    }
+    height: 600px;
+    border: 3px solid white;
+    padding: 10px;
+    margin: 10px;
+}
 
 
 .title{
@@ -30,12 +28,14 @@ h1, h2, .description{
 .lyrics {
     text-align:center;
     font-family: "Purple Purse", serif;
-    font-size:30px;
+    font-size:25px;
     background-color: white;
     padding:10px;
     margin:10px;
     
 }
+
+
 h1 {
     font-size: 40px;
 }
