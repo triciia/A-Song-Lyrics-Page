@@ -2,41 +2,49 @@
 
 
 .row{
-   display: flex;
-     display: flex;
-      justify-content: center;
-      align-items: center;
+   display: flex;  
+   justify-content: center;
+   align-items: center;
 }
  .row img {
       height: 600px;
       border: 3px solid white;
       padding: 10px;
       margin: 10px;
-      background-color: black;  
     }
 
 
 .title{
-color:red;
+background-image: url(SASH_01.webp);
+background-size:cover;
+background-position: center;
+padding: 30px;
 text-align: center;
+color: white;
+font-family: "Annie Use Your Telescope", cursive;
 }
-
+h1, h2, .description{
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+}
 .lyrics {
     text-align:center;
     font-family: "Purple Purse", serif;
-    font-size:25px;
+    font-size:30px;
     background-color: white;
     padding:10px;
     margin:10px;
     
-    
+}
+h1 {
+    font-size: 40px;
 }
 h2{
-    font-size:25px;
+    font-size:30px;
 }
 
 .description{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 
